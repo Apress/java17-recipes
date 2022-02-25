@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<patients>
+	<patient id="1">
+		<name>John Smith</name>
+		<diagnosis>Common Cold</diagnosis>
+	</patient>
+	<patient id="2">
+		<name>Jane Doe</name>
+		<diagnosis>Broken Ankle</diagnosis>
+	</patient>
+	<patient id="3">
+		<name>Jack Brown</name>
+		<diagnosis>Food Allergy</diagnosis>
+	</patient>
+</patients>
